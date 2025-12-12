@@ -1,5 +1,7 @@
 {
     "recommendations": [
+        "yzhang.markdown-all-in-one",
+        "ltex-plus.vscode-ltex-plus",
         "mechatroner.rainbow-csv"
     ]
 }
